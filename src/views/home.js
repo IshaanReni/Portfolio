@@ -2420,12 +2420,19 @@ const Home = (props) => {
                 <div className="home-container06">
                   <div className="home-container07">
                     <div className="home-cta-btn-container">
+                      <a
+                        href="cv_ishaan_reni.pdf"
+                        target="_blank"
+                        download="Ishaan_Reni_CV"
+                        // class="pdf"
+                      >
                       <svg
                         viewBox="0 0 877.7142857142857 1024"
                         className="home-icon04"
                       >
                         <path d="M838.857 217.143c21.143 21.143 38.857 63.429 38.857 93.714v658.286c0 30.286-24.571 54.857-54.857 54.857h-768c-30.286 0-54.857-24.571-54.857-54.857v-914.286c0-30.286 24.571-54.857 54.857-54.857h512c30.286 0 72.571 17.714 93.714 38.857zM585.143 77.714v214.857h214.857c-3.429-9.714-8.571-19.429-12.571-23.429l-178.857-178.857c-4-4-13.714-9.143-23.429-12.571zM804.571 950.857v-585.143h-237.714c-30.286 0-54.857-24.571-54.857-54.857v-237.714h-438.857v877.714h731.429zM510.857 612c14.286 11.429 30.286 21.714 48 32 24-2.857 46.286-4 66.857-4 38.286 0 86.857 4.571 101.143 28 4 5.714 7.429 16 1.143 29.714-0.571 0.571-1.143 1.714-1.714 2.286v0.571c-1.714 10.286-10.286 21.714-40.571 21.714-36.571 0-92-16.571-140-41.714-79.429 8.571-162.857 26.286-224 47.429-58.857 100.571-104 149.714-138.286 149.714-5.714 0-10.857-1.143-16-4l-13.714-6.857c-1.714-0.571-2.286-1.714-3.429-2.857-2.857-2.857-5.143-9.143-3.429-20.571 5.714-26.286 36.571-70.286 107.429-107.429 4.571-2.857 10.286-1.143 13.143 3.429 0.571 0.571 1.143 1.714 1.143 2.286 17.714-29.143 38.286-66.286 61.143-112.571 25.714-51.429 45.714-101.714 59.429-149.714-18.286-62.286-24-126.286-13.714-164 4-14.286 12.571-22.857 24-22.857h12.571c8.571 0 15.429 2.857 20 8.571 6.857 8 8.571 20.571 5.143 38.857-0.571 1.714-1.143 3.429-2.286 4.571 0.571 1.714 0.571 2.857 0.571 4.571v17.143c-0.571 36-1.143 70.286-8 109.714 20 60 49.714 108.571 83.429 136zM181.714 846.857c17.143-8 41.714-32.571 78.286-90.286-42.857 33.143-69.714 70.857-78.286 90.286zM409.143 321.143c-5.714 16-5.714 43.429-1.143 75.429 1.714-9.143 2.857-17.714 4-25.143 1.143-9.714 2.857-17.714 4-24.571 0.571-1.714 1.143-2.857 2.286-4.571-0.571-0.571-0.571-1.714-1.143-2.857-0.571-10.286-4-16.571-7.429-20.571 0 1.143-0.571 1.714-0.571 2.286zM338.286 698.857c50.286-20 106.286-36 162.286-46.286-5.714-4.571-11.429-8.571-16.571-13.143-28-24.571-53.143-58.857-72.571-100.571-10.857 34.857-26.857 72-47.429 112.571-8.571 16-17.143 32-25.714 47.429zM707.429 689.714c-2.857-2.857-17.714-13.714-80-13.714 28 10.286 53.714 16 70.857 16 5.143 0 8 0 10.286-0.571 0-0.571-0.571-1.143-1.143-1.714z"></path>
                       </svg>
+                      </a>
                       <a
                         href="https://github.com/IshaanReni"
                         target="_blank"
@@ -2461,7 +2468,7 @@ const Home = (props) => {
           <div className="home-hero-text-container1">
             <img
               alt="image"
-              src="/external/pastedimage-xxxx-1500w-1500w.png"
+              src="/external/suit.png"
               className="home-image1"
             />
           </div>
@@ -2565,7 +2572,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/tcs.jpg"
                   className="home-image2"
                 />
               </a>
@@ -2617,7 +2624,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/ksp.jpg"
                   className="home-image3"
                 />
               </a>
@@ -2671,7 +2678,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/logo-imperial-college-london.png"
                   className="home-image4"
                 />
               </a>
@@ -2714,7 +2721,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/makita.png"
                   className="home-image5"
                 />
               </a>
@@ -2763,7 +2770,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/johns.jpg"
                   className="home-image6"
                 />
               </a>
@@ -2812,7 +2819,7 @@ const Home = (props) => {
               >
                 <img
                   alt="image"
-                  src="/external/pastedimage-xxxx-1500w-1500w.png"
+                  src="/external/deter.jpg"
                   className="home-image7"
                 />
               </a>
@@ -3225,7 +3232,7 @@ const Home = (props) => {
       <div className="home-subscribe">
         <img
           alt="image"
-          src="/external/pastedimage-xxxx-1500w-1500w.png"
+          src="/external/suit.png"
           className="home-image8"
         />
         <div className="home-container16">
